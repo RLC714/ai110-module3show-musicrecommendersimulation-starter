@@ -9,3 +9,13 @@ id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
 8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
 9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
 10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+11,Block Party,Ray Dillon,hip-hop,confident,0.80,95,0.72,0.86,0.15
+12,Bass Cathedral,Voltage,edm,euphoric,0.96,140,0.80,0.90,0.03
+13,Back Porch Sunday,Hank Willow,country,nostalgic,0.50,100,0.66,0.60,0.70
+14,Moonlight Etude,Clara Weiss,classical,peaceful,0.15,66,0.35,0.20,0.97
+15,Wall of Fury,Black Anvil,metal,aggressive,0.98,170,0.30,0.40,0.02
+16,Velvet Hours,Mara Jean,r&b,romantic,0.55,85,0.65,0.72,0.35
+17,Campfire Letters,Pine and Sparrow,folk,sad,0.28,82,0.30,0.45,0.93
+18,Island Breeze,Selva Roots,reggae,relaxed,0.52,78,0.82,0.78,0.45
+19,Fuego Nocturno,Luz Marin,latin,happy,0.85,102,0.90,0.92,0.18
+20,Slow Burn Blues,Delta Mae,blues,sad,0.38,70,0.28,0.48,0.75
